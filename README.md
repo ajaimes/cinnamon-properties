@@ -22,7 +22,7 @@ and specify the file name you want to use:
  
 	Properties<User> pm = new Properties<>("user.xml");
 
-To save an intance, call the `save()` method:
+To save an instance, call the `save()` method:
  
  	User user = new User();
  	user.setId(1);
